@@ -17,8 +17,8 @@ Este repositório contém exercícios e exemplos práticos sobre manipulação d
 Se quiser testar os exemplos, clone o repositório e execute os arquivos com PHP:
 
 ```bash
-git clone https://github.com/wollihenrique/Arrays-em-PHP.git
-cd Arrays-em-php
+git clone https://github.com/wollihenrique/php-arrays.git
+cd php-arrays
 php nome-do-arquivo.php
 
 ```
